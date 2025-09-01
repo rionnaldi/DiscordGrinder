@@ -1,0 +1,12 @@
+aiohttp
+motor
+python-dotenv
+google-generativeai
+colorama
+certifi
+dnspython
+numpy
+asyncio
+typing-extensions
+dataclasses
+apscheduler
