@@ -1,0 +1,9 @@
+.env
+.github/
+clean_knowledge.json
+clean_knowledge_base.json
+generate_embedding.py
+knowledge_base.json
+sample.json
+__pycache__
+venv
